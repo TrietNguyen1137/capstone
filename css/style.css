@@ -679,6 +679,7 @@ p {
     z-index: -1;
     top: 60px;
     right: 44px;
+    animation: age-shape-left-right-1 3s ease-out infinite;
 }
 
 /* ----- PORTFOLIO ----- */
